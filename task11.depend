@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1763140714 source:c:\users\mosta\onedrive\سطح المكتب\task11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"draw.h"
+	"screen.h"
+
+1763139093 
+
+1763138630 c:\users\mosta\onedrive\سطح المكتب\task11\draw.h
+	"color.h"
+
+1763138630 
+
+1763138630 c:\users\mosta\onedrive\سطح المكتب\task11\color.h
+
+1763138630 c:\users\mosta\onedrive\سطح المكتب\task11\screen.h
+
+1763138630 source:c:\users\mosta\onedrive\سطح المكتب\task11\color.h
+
+1763138630 source:c:\users\mosta\onedrive\سطح المكتب\task11\cursor.h
+
+1763138630 source:c:\users\mosta\onedrive\سطح المكتب\task11\color.c
+	"color.h"
+	"platform.h"
+	<stdio.h>
+
+1763139348 c:\users\mosta\onedrive\سطح المكتب\task11\platform.h
+	<windows.h>
+	<unistd.h>
+	<stdio.h>
+
+1763138630 source:c:\users\mosta\onedrive\سطح المكتب\task11\cursor.c
+	"cursor.h"
+	"platform.h"
+	<stdio.h>
+
+1763138630 c:\users\mosta\onedrive\سطح المكتب\task11\cursor.h
+
+1763138630 source:c:\users\mosta\onedrive\سطح المكتب\task11\draw.c
+	"draw.h"
+	"cursor.h"
+	"color.h"
+	"screen.h"
+	<stdio.h>
+
+1763139093 source:c:\users\mosta\onedrive\سطح المكتب\task11\screen.c
+	"screen.h"
+	"platform.h"
+	<stdio.h>
+	<stdlib.h>
+
+1763102630 source:/home/mostafa/Desktop/task11/color.c
+	"color.h"
+	"platform.h"
+	<stdio.h>
+
+1763102630 /home/mostafa/Desktop/task11/color.h
+
+1763103348 /home/mostafa/Desktop/task11/platform.h
+	<windows.h>
+	<unistd.h>
+	<stdio.h>
+
+1763102630 source:/home/mostafa/Desktop/task11/cursor.c
+	"cursor.h"
+	"platform.h"
+	<stdio.h>
+
+1763102630 /home/mostafa/Desktop/task11/cursor.h
+
+1763102630 source:/home/mostafa/Desktop/task11/draw.c
+	"draw.h"
+	"cursor.h"
+	"color.h"
+	"screen.h"
+	<stdio.h>
+
+1763102630 /home/mostafa/Desktop/task11/draw.h
+	"color.h"
+
+1763102630 /home/mostafa/Desktop/task11/screen.h
+
+1763104714 source:/home/mostafa/Desktop/task11/main.c
+	<stdio.h>
+	<stdlib.h>
+	"draw.h"
+	"screen.h"
+
+1763103092 source:/home/mostafa/Desktop/task11/screen.c
+	"screen.h"
+	"platform.h"
+	<stdio.h>
+	<stdlib.h>
+
