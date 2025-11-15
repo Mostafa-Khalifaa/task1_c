@@ -5,12 +5,10 @@
 	"draw.h"
 	"screen.h"
 
-1763139093 
+1763138630 
 
 1763138630 c:\users\mosta\onedrive\سطح المكتب\task11\draw.h
 	"color.h"
-
-1763138630 
 
 1763138630 c:\users\mosta\onedrive\سطح المكتب\task11\color.h
 
@@ -76,16 +74,15 @@
 	"screen.h"
 	<stdio.h>
 
-1763102630 /home/mostafa/Desktop/task11/draw.h
+1763204704 /home/mostafa/Desktop/task11/draw.h
 	"color.h"
 
 1763102630 /home/mostafa/Desktop/task11/screen.h
 
-1763104714 source:/home/mostafa/Desktop/task11/main.c
-	<stdio.h>
-	<stdlib.h>
+1763204704 source:/home/mostafa/Desktop/task11/main.c
 	"draw.h"
 	"screen.h"
+	<stdio.h>
 
 1763103092 source:/home/mostafa/Desktop/task11/screen.c
 	"screen.h"

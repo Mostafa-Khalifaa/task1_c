@@ -1,12 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "draw.h"
 #include "screen.h"
+#include <stdio.h>
 
-int main()
-{
+int main() {
+
     clearScreen();
-    showInitial(10, 8, "Hello World!", RED);
+
+    showInitial("Hello");
+
     delaySeconds(2);
 
     showStatementScreen();
